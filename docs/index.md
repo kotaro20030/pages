@@ -38,5 +38,5 @@
 ぴよ
 
 
-![ほげ](./zzakoshi.jpg)
+![ほげ](./zakoshi.jpg)
 
